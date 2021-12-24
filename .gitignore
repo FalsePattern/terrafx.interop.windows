@@ -34,3 +34,4 @@ TestResult.xml
 *.jpg
 *.png
 *.wav
+.idea/
